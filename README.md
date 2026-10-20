@@ -1,6 +1,6 @@
 # DataCo 供应链经营分析看板（Power BI）
 
-[![Syntax CI](https://github.com/MimiJimmy001/dataco-smart-supply-chain/actions/workflows/ci.yml/badge.svg)](https://github.com/MimiJimmy001/dataco-smart-supply-chain/actions/workflows/ci.yml)
+[![Syntax CI](https://github.com/MimiQuark/DataCo-Supply-Chain-Performance-Dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/MimiQuark/DataCo-Supply-Chain-Performance-Dashboard/actions/workflows/ci.yml)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)](SupplyChain-Dashboard.pbix)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
